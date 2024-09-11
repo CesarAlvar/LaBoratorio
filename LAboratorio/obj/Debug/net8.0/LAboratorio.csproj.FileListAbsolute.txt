@@ -1,0 +1,5 @@
+/home/et12alumno/Descargas/LAboratorio/obj/Debug/net8.0/LAboratorio.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Descargas/LAboratorio/obj/Debug/net8.0/LAboratorio.AssemblyInfoInputs.cache
+/home/et12alumno/Descargas/LAboratorio/obj/Debug/net8.0/LAboratorio.AssemblyInfo.cs
+/home/et12alumno/Descargas/LAboratorio/obj/Debug/net8.0/LAboratorio.csproj.CoreCompileInputs.cache
+/home/et12alumno/Descargas/LAboratorio/obj/Debug/net8.0/LAboratorio.csproj.AssemblyReference.cache
